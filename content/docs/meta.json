@@ -3,14 +3,15 @@
   "pages": [
     "---Introduction---",
     "index",
-    "what-is-bubbly-maps",
+    "---Bubbly Maps---",
+    "bubblymaps",
+    "what-is-bubbly",
     "guides",
     "license",
     "change-log",
-    "---Functions---",
-    "apis",
-    "modules"
-    
-    
+    "---Lingoose---",
+    "lingoose",
+    "---Quacky---",
+    "quacky",
   ]
 }
