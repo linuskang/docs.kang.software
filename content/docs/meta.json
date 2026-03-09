@@ -1,12 +1,7 @@
 {
   "root": true,
   "pages": [
-    "---Introduction---",
-    "index",
     "---Bubbly Maps---",
-    "bubblymaps",
-    "bubblymaps/what-is-bubbly",
-    "bubblymaps/license",
-    "bubblymaps/changelog"
+    "bubblymaps"
   ]
 }
